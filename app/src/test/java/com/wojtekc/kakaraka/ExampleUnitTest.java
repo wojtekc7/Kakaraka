@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.wojtekc.kakaraka;
 
 import org.junit.Test;
 
